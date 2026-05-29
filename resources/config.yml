@@ -1,0 +1,36 @@
+# CONFIG.YML
+
+xp-cost: 30
+
+select-form-title: "&8Rename UI"
+select-form-message: "&7Select an item to rename."
+dropdown-message: "&eChoose Item"
+
+rename-form-title: "&8Rename Item"
+rename-form-message: "&7You are renaming: &e{item}"
+rename-input-message: "&eEnter New Name"
+
+confirm-form-title: "&8Confirm Rename"
+
+confirm-message: "&7It will cost &e{xp} XP Levels&7 to rename &e{item} &7to &r{name}\n&7Continue?"
+
+free-rename-message: "&aYou have free renaming!"
+free-confirm-message: "&aThis rename is FREE!"
+
+confirm-button: "&aYes Rename"
+cancel-button: "&cCancel"
+close-button: "&8Close"
+
+rename-success-message: "&aSuccessfully renamed &e{item} &ato &r{name}"
+
+cancel-message: "&cRename cancelled."
+
+close-message: "&7Closed the form."
+
+not-enough-xp-message: "&cYou need {xp} XP Levels to rename this item."
+
+empty-name-message: "&cYou must enter a name."
+
+item-missing-message: "&cThat item no longer exists."
+
+no-items-message: "&cYou do not have any items to rename."
