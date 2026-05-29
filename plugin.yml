@@ -1,0 +1,22 @@
+name: RenamingUI
+main: RenamingUI\Main
+version: 1.0.0
+api: 5.0.0
+
+author: ZyberPE
+
+commands:
+  renameui:
+    description: Open Renaming UI
+    permission: renamingui.use
+
+  rename:
+    description: Open Renaming UI
+    permission: renamingui.use
+
+permissions:
+  renamingui.use:
+    default: true
+
+  renamingui.bypass:
+    default: op
