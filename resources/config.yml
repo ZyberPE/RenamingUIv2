@@ -14,14 +14,14 @@ confirm-form-title: "&8Confirm Rename"
 
 confirm-message: "&7It will cost &e{xp} XP Levels&7 to rename &e{item} &7to &r{name}\n&7Continue?"
 
-free-rename-message: "&aYou have free renaming!"
-free-confirm-message: "&aThis rename is FREE!"
+free-rename-message: "&r&aYou have free renaming!"
+free-confirm-message: "&aThis rename is FREE! Because you are Ranked!"
 
 confirm-button: "&aYes Rename"
 cancel-button: "&cCancel"
 close-button: "&8Close"
 
-rename-success-message: "&aSuccessfully renamed &e{item} &ato &r{name}"
+rename-success-message: "&aSuccessfully renamed &r{name}"
 
 cancel-message: "&cRename cancelled."
 
