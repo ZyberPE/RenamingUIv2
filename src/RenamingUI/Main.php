@@ -147,7 +147,7 @@ class Main extends PluginBase{
 
         $cost = (int)$this->config->get("xp-cost");
 
-        $bypass = $player->hasPermission("renamingui.bypass") || $player->isOp();
+        $bypass = $player->hasPermission("renamingui.bypass");
 
         $form = new SimpleForm(function(Player $player, ?int $data) use ($slot, $item, $newName, $cost, $bypass) : void{
 
